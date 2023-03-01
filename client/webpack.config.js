@@ -38,8 +38,8 @@ module.exports = () => {
         short_name: 'Editor',
         description: 'Edit your text',
         theme: '#225ca3',
-        start_url: './',
-        publicPath: './',
+        start_url: '/',
+        publicPath: '/',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
